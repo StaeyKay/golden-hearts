@@ -23,7 +23,7 @@ const Choose = () => {
                 <div className="space-y-9 w-full px-4 py-12 sm:px-6 sm:py-16 lg:w-1/2 lg:px-8 lg:py-24">
                     <div className="mx-auto max-w-lg text-center flex flex-col">
 
-                        <span className='text-[30px] text-[#916c06] font-bold flex flex-col'>Our Services</span>
+                        <span className='text-[30px] text-[#916c06] font-bold flex flex-col'>Why Choose Us</span>
                         <span className='font-semibold'>We are dedicated to providing compassionate and personalized care to each of our clients.</span>
 
                     </div>
